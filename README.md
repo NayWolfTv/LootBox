@@ -13,57 +13,57 @@ List of Features :
 
  Blocks : 
 --
-   -Box
-   -FoxyOre
-   -Foxy Block
-   -Infested Block
-   -PokiteBlock
+    -Box
+    -FoxyOre
+    -FoxyBlock
+    -InfestedBlock
+    -PokiteBlock
 
  Items :
  --
-   -Foxyte
-   -Pokite
-   -Dragonite
-   -Dragons Arrow
+    -Foxyte
+    -Pokite
+    -Dragonite
+    -Dragons Arrow
 
  Armor :
   --
-   -FoxyteArmor
-   -DragonsArmor
+    -FoxyteArmor
+    -DragonsArmor
   
  Biome :
   --
-   No New Biomes Yet
+    No New Biomes Yet
   
  Fluid : 
   --
-   PokeFluid
+    PokeFluid
 
  Commands :
   --
-   - /kit
+    - /kit
 
  Fuel :
   --
-   No Fuel Yet
+    No Fuel Yet
   
  Living Entity :
   --
-   No Entity Yet
+    No Entity Yet
 
  Food :
   --
-   -Dragon Seed 
+    -Dragon Seed 
 
  Tool : 
   --
-   -Dragon Tool
-   -Dragon Sword
-   -FowsTool
+    -Dragon Tool
+    -Dragon Sword
+    -FowsTool
   
  Advancement :
   --
-   Coming Soon
+    Coming Soon
 
  Creative Tab :
    --
@@ -89,7 +89,7 @@ List of Features :
 
  Ranged Item : 
   --
-   -Dragon Blast
+    -Dragon Blast
   
  Procedure :
    --
